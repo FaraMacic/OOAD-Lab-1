@@ -15,12 +15,11 @@ public class Main {
         int n;
 
         while (true) {
-            System.out.print("Unesite cijeli broj n: ");
+            System.out.print("eRNAD2222:");
             n = unos.nextInt();
 
             if (n > 500) {
                 System.out.println("Uneseni broj je prevelik!");
-                // ponavlja se unos sve dok broj nije manji ili jednak 500
             } else if (n < 2) {
                 System.out.println("Nije moguće izvršiti izračunavanje prostih brojeva.");
                 return; // prekida rad programa
