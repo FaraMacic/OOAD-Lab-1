@@ -17,6 +17,7 @@ public class Main {
         while (true) {
             System.out.println("eRNAD2222:");
             System.out.println("Amila");
+            System.out.println("Amina");
             n = unos.nextInt();
 
             if (n > 500) {
